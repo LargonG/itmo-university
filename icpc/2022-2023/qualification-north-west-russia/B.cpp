@@ -1,5 +1,5 @@
 /**
- * @idea_author: Anton Panov, Vladislav Tselikov (https://github.com/mgvts)
+ * @idea_author: Anton Panov, Vladislav Tselikov
  * @code_author: Anton Panov
  * @pcms: Accepted
  * @date: 08.10.2022

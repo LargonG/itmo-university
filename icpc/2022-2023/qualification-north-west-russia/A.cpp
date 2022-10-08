@@ -1,5 +1,5 @@
 /**
- * @idea_author: Anton Panov (
+ * @idea_author: Anton Panov
  * @code_author: Anton Panov
  * @pcms: Accepted
  * @date: 08.10.2022
